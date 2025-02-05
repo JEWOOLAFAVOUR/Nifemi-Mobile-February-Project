@@ -6,6 +6,7 @@ const _layout = () => {
     <View style={styles.page}>
       <View style={styles.box}>
         <View style={styles.box2}></View>
+        <Text>Hello My name is Nifemi</Text>
       </View>
     </View>
   )
